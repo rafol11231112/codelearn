@@ -1,0 +1,3102 @@
+[
+  {
+    "id": "c_1",
+    "title": "Challenge 1: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 16,
+    "starterCode": "# Challenge 1\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 1\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 1,
+    "requiredChallengeId": null,
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 1",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_2",
+    "title": "Challenge 2: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 17,
+    "starterCode": "# Challenge 2\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 2\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 1,
+    "requiredChallengeId": "c_1",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 2",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_3",
+    "title": "Challenge 3: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 18,
+    "starterCode": "# Challenge 3\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 3\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 2,
+    "requiredChallengeId": "c_2",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 3",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_4",
+    "title": "Challenge 4: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 19,
+    "starterCode": "# Challenge 4\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 4\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 2,
+    "requiredChallengeId": "c_3",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 4",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_5",
+    "title": "Challenge 5: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 20,
+    "starterCode": "# Challenge 5\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 5\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 3,
+    "requiredChallengeId": "c_4",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 5",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_6",
+    "title": "Challenge 6: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 21,
+    "starterCode": "# Challenge 6\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 6\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 3,
+    "requiredChallengeId": "c_5",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 6",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_7",
+    "title": "Challenge 7: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 22,
+    "starterCode": "# Challenge 7\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 7\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 4,
+    "requiredChallengeId": "c_6",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 7",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_8",
+    "title": "Challenge 8: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 23,
+    "starterCode": "# Challenge 8\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 8\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 4,
+    "requiredChallengeId": "c_7",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 8",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_9",
+    "title": "Challenge 9: Print & Variables",
+    "description": "Solve this easy problem involving print & variables.",
+    "difficulty": "Easy",
+    "xpReward": 24,
+    "starterCode": "# Challenge 9\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 9\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 5,
+    "requiredChallengeId": "c_8",
+    "language": "python",
+    "tags": [
+      "print-&-variables",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 9",
+      "Hint 2: Think about Print & Variables",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_10",
+    "title": "Challenge 10: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 25,
+    "starterCode": "# Challenge 10\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 10\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 5,
+    "requiredChallengeId": "c_9",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 10",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_11",
+    "title": "Challenge 11: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 26,
+    "starterCode": "# Challenge 11\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 11\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 6,
+    "requiredChallengeId": "c_10",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 11",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_12",
+    "title": "Challenge 12: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 27,
+    "starterCode": "# Challenge 12\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 12\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 6,
+    "requiredChallengeId": "c_11",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 12",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_13",
+    "title": "Challenge 13: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 28,
+    "starterCode": "# Challenge 13\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 13\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 7,
+    "requiredChallengeId": "c_12",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 13",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_14",
+    "title": "Challenge 14: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 29,
+    "starterCode": "# Challenge 14\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 14\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 7,
+    "requiredChallengeId": "c_13",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 14",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_15",
+    "title": "Challenge 15: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 30,
+    "starterCode": "# Challenge 15\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 15\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 8,
+    "requiredChallengeId": "c_14",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 15",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_16",
+    "title": "Challenge 16: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 31,
+    "starterCode": "# Challenge 16\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 16\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 8,
+    "requiredChallengeId": "c_15",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 16",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_17",
+    "title": "Challenge 17: Math Operations",
+    "description": "Solve this easy problem involving math operations.",
+    "difficulty": "Easy",
+    "xpReward": 32,
+    "starterCode": "# Challenge 17\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 17\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 9,
+    "requiredChallengeId": "c_16",
+    "language": "python",
+    "tags": [
+      "math-operations",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 17",
+      "Hint 2: Think about Math Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_18",
+    "title": "Challenge 18: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 33,
+    "starterCode": "# Challenge 18\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 18\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 9,
+    "requiredChallengeId": "c_17",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 18",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_19",
+    "title": "Challenge 19: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 34,
+    "starterCode": "# Challenge 19\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 19\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 10,
+    "requiredChallengeId": "c_18",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 19",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_20",
+    "title": "Challenge 20: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 35,
+    "starterCode": "# Challenge 20\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 20\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 10,
+    "requiredChallengeId": "c_19",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 20",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_21",
+    "title": "Challenge 21: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 36,
+    "starterCode": "# Challenge 21\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 21\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 11,
+    "requiredChallengeId": "c_20",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 21",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_22",
+    "title": "Challenge 22: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 37,
+    "starterCode": "# Challenge 22\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 22\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 11,
+    "requiredChallengeId": "c_21",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 22",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_23",
+    "title": "Challenge 23: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 38,
+    "starterCode": "# Challenge 23\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 23\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 12,
+    "requiredChallengeId": "c_22",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 23",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_24",
+    "title": "Challenge 24: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 39,
+    "starterCode": "# Challenge 24\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 24\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 12,
+    "requiredChallengeId": "c_23",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 24",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_25",
+    "title": "Challenge 25: String Manipulation",
+    "description": "Solve this easy problem involving string manipulation.",
+    "difficulty": "Easy",
+    "xpReward": 40,
+    "starterCode": "# Challenge 25\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 25\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 13,
+    "requiredChallengeId": "c_24",
+    "language": "python",
+    "tags": [
+      "string-manipulation",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 25",
+      "Hint 2: Think about String Manipulation",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_26",
+    "title": "Challenge 26: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 41,
+    "starterCode": "# Challenge 26\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 26\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 13,
+    "requiredChallengeId": "c_25",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 26",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_27",
+    "title": "Challenge 27: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 42,
+    "starterCode": "# Challenge 27\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 27\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 14,
+    "requiredChallengeId": "c_26",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 27",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_28",
+    "title": "Challenge 28: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 43,
+    "starterCode": "# Challenge 28\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 28\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 14,
+    "requiredChallengeId": "c_27",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 28",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_29",
+    "title": "Challenge 29: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 44,
+    "starterCode": "# Challenge 29\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 29\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 15,
+    "requiredChallengeId": "c_28",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 29",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_30",
+    "title": "Challenge 30: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 45,
+    "starterCode": "# Challenge 30\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 30\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 15,
+    "requiredChallengeId": "c_29",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 30",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_31",
+    "title": "Challenge 31: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 46,
+    "starterCode": "# Challenge 31\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 31\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 16,
+    "requiredChallengeId": "c_30",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 31",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_32",
+    "title": "Challenge 32: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 47,
+    "starterCode": "# Challenge 32\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 32\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 16,
+    "requiredChallengeId": "c_31",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 32",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_33",
+    "title": "Challenge 33: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 48,
+    "starterCode": "# Challenge 33\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 33\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 17,
+    "requiredChallengeId": "c_32",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 33",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_34",
+    "title": "Challenge 34: Conditionals",
+    "description": "Solve this easy problem involving conditionals.",
+    "difficulty": "Easy",
+    "xpReward": 49,
+    "starterCode": "# Challenge 34\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 34\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 17,
+    "requiredChallengeId": "c_33",
+    "language": "python",
+    "tags": [
+      "conditionals",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 34",
+      "Hint 2: Think about Conditionals",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_35",
+    "title": "Challenge 35: Loops",
+    "description": "Solve this easy problem involving loops.",
+    "difficulty": "Easy",
+    "xpReward": 50,
+    "starterCode": "# Challenge 35\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 35\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 18,
+    "requiredChallengeId": "c_34",
+    "language": "python",
+    "tags": [
+      "loops",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 35",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_36",
+    "title": "Challenge 36: Loops",
+    "description": "Solve this easy problem involving loops.",
+    "difficulty": "Easy",
+    "xpReward": 51,
+    "starterCode": "# Challenge 36\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 36\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 18,
+    "requiredChallengeId": "c_35",
+    "language": "python",
+    "tags": [
+      "loops",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 36",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_37",
+    "title": "Challenge 37: Loops",
+    "description": "Solve this easy problem involving loops.",
+    "difficulty": "Easy",
+    "xpReward": 52,
+    "starterCode": "# Challenge 37\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 37\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 19,
+    "requiredChallengeId": "c_36",
+    "language": "python",
+    "tags": [
+      "loops",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 37",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_38",
+    "title": "Challenge 38: Loops",
+    "description": "Solve this easy problem involving loops.",
+    "difficulty": "Easy",
+    "xpReward": 53,
+    "starterCode": "# Challenge 38\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 38\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 19,
+    "requiredChallengeId": "c_37",
+    "language": "python",
+    "tags": [
+      "loops",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 38",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_39",
+    "title": "Challenge 39: Loops",
+    "description": "Solve this easy problem involving loops.",
+    "difficulty": "Easy",
+    "xpReward": 54,
+    "starterCode": "# Challenge 39\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 39\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 20,
+    "requiredChallengeId": "c_38",
+    "language": "python",
+    "tags": [
+      "loops",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 39",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_40",
+    "title": "Challenge 40: Loops",
+    "description": "Solve this easy problem involving loops.",
+    "difficulty": "Easy",
+    "xpReward": 55,
+    "starterCode": "# Challenge 40\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 40\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 20,
+    "requiredChallengeId": "c_39",
+    "language": "python",
+    "tags": [
+      "loops",
+      "easy"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 40",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_41",
+    "title": "Challenge 41: Loops",
+    "description": "Solve this medium problem involving loops.",
+    "difficulty": "Medium",
+    "xpReward": 91,
+    "starterCode": "# Challenge 41\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 41\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 21,
+    "requiredChallengeId": "c_40",
+    "language": "python",
+    "tags": [
+      "loops",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 41",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_42",
+    "title": "Challenge 42: Loops",
+    "description": "Solve this medium problem involving loops.",
+    "difficulty": "Medium",
+    "xpReward": 92,
+    "starterCode": "# Challenge 42\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 42\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 21,
+    "requiredChallengeId": "c_41",
+    "language": "python",
+    "tags": [
+      "loops",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 42",
+      "Hint 2: Think about Loops",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_43",
+    "title": "Challenge 43: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 93,
+    "starterCode": "# Challenge 43\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 43\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 22,
+    "requiredChallengeId": "c_42",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 43",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_44",
+    "title": "Challenge 44: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 94,
+    "starterCode": "# Challenge 44\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 44\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 22,
+    "requiredChallengeId": "c_43",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 44",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_45",
+    "title": "Challenge 45: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 95,
+    "starterCode": "# Challenge 45\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 45\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 23,
+    "requiredChallengeId": "c_44",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 45",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_46",
+    "title": "Challenge 46: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 96,
+    "starterCode": "# Challenge 46\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 46\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 23,
+    "requiredChallengeId": "c_45",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 46",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_47",
+    "title": "Challenge 47: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 97,
+    "starterCode": "# Challenge 47\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 47\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 24,
+    "requiredChallengeId": "c_46",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 47",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_48",
+    "title": "Challenge 48: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 98,
+    "starterCode": "# Challenge 48\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 48\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 24,
+    "requiredChallengeId": "c_47",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 48",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_49",
+    "title": "Challenge 49: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 99,
+    "starterCode": "# Challenge 49\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 49\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 25,
+    "requiredChallengeId": "c_48",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 49",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_50",
+    "title": "Challenge 50: Lists",
+    "description": "Solve this medium problem involving lists.",
+    "difficulty": "Medium",
+    "xpReward": 100,
+    "starterCode": "# Challenge 50\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 50\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 25,
+    "requiredChallengeId": "c_49",
+    "language": "python",
+    "tags": [
+      "lists",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 50",
+      "Hint 2: Think about Lists",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_51",
+    "title": "Challenge 51: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 101,
+    "starterCode": "# Challenge 51\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 51\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 26,
+    "requiredChallengeId": "c_50",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 51",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_52",
+    "title": "Challenge 52: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 102,
+    "starterCode": "# Challenge 52\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 52\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 26,
+    "requiredChallengeId": "c_51",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 52",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_53",
+    "title": "Challenge 53: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 103,
+    "starterCode": "# Challenge 53\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 53\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 27,
+    "requiredChallengeId": "c_52",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 53",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_54",
+    "title": "Challenge 54: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 104,
+    "starterCode": "# Challenge 54\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 54\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 27,
+    "requiredChallengeId": "c_53",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 54",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_55",
+    "title": "Challenge 55: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 105,
+    "starterCode": "# Challenge 55\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 55\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 28,
+    "requiredChallengeId": "c_54",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 55",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_56",
+    "title": "Challenge 56: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 106,
+    "starterCode": "# Challenge 56\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 56\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 28,
+    "requiredChallengeId": "c_55",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 56",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_57",
+    "title": "Challenge 57: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 107,
+    "starterCode": "# Challenge 57\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 57\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 29,
+    "requiredChallengeId": "c_56",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 57",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_58",
+    "title": "Challenge 58: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 108,
+    "starterCode": "# Challenge 58\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 58\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 29,
+    "requiredChallengeId": "c_57",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 58",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_59",
+    "title": "Challenge 59: Functions",
+    "description": "Solve this medium problem involving functions.",
+    "difficulty": "Medium",
+    "xpReward": 109,
+    "starterCode": "# Challenge 59\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 59\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 30,
+    "requiredChallengeId": "c_58",
+    "language": "python",
+    "tags": [
+      "functions",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 59",
+      "Hint 2: Think about Functions",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_60",
+    "title": "Challenge 60: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 110,
+    "starterCode": "# Challenge 60\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 60\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 30,
+    "requiredChallengeId": "c_59",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 60",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_61",
+    "title": "Challenge 61: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 111,
+    "starterCode": "# Challenge 61\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 61\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 31,
+    "requiredChallengeId": "c_60",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 61",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_62",
+    "title": "Challenge 62: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 112,
+    "starterCode": "# Challenge 62\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 62\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 31,
+    "requiredChallengeId": "c_61",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 62",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_63",
+    "title": "Challenge 63: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 113,
+    "starterCode": "# Challenge 63\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 63\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 32,
+    "requiredChallengeId": "c_62",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 63",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_64",
+    "title": "Challenge 64: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 114,
+    "starterCode": "# Challenge 64\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 64\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 32,
+    "requiredChallengeId": "c_63",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 64",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_65",
+    "title": "Challenge 65: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 115,
+    "starterCode": "# Challenge 65\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 65\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 33,
+    "requiredChallengeId": "c_64",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 65",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_66",
+    "title": "Challenge 66: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 116,
+    "starterCode": "# Challenge 66\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 66\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 33,
+    "requiredChallengeId": "c_65",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 66",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_67",
+    "title": "Challenge 67: Dictionaries",
+    "description": "Solve this medium problem involving dictionaries.",
+    "difficulty": "Medium",
+    "xpReward": 117,
+    "starterCode": "# Challenge 67\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 67\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 34,
+    "requiredChallengeId": "c_66",
+    "language": "python",
+    "tags": [
+      "dictionaries",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 67",
+      "Hint 2: Think about Dictionaries",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_68",
+    "title": "Challenge 68: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 118,
+    "starterCode": "# Challenge 68\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 68\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 34,
+    "requiredChallengeId": "c_67",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 68",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_69",
+    "title": "Challenge 69: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 119,
+    "starterCode": "# Challenge 69\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 69\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 35,
+    "requiredChallengeId": "c_68",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 69",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_70",
+    "title": "Challenge 70: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 120,
+    "starterCode": "# Challenge 70\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 70\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 35,
+    "requiredChallengeId": "c_69",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 70",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_71",
+    "title": "Challenge 71: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 121,
+    "starterCode": "# Challenge 71\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 71\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 36,
+    "requiredChallengeId": "c_70",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 71",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_72",
+    "title": "Challenge 72: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 122,
+    "starterCode": "# Challenge 72\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 72\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 36,
+    "requiredChallengeId": "c_71",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 72",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_73",
+    "title": "Challenge 73: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 123,
+    "starterCode": "# Challenge 73\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 73\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 37,
+    "requiredChallengeId": "c_72",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 73",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_74",
+    "title": "Challenge 74: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 124,
+    "starterCode": "# Challenge 74\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 74\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 37,
+    "requiredChallengeId": "c_73",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 74",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_75",
+    "title": "Challenge 75: File Operations",
+    "description": "Solve this medium problem involving file operations.",
+    "difficulty": "Medium",
+    "xpReward": 125,
+    "starterCode": "# Challenge 75\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 75\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 38,
+    "requiredChallengeId": "c_74",
+    "language": "python",
+    "tags": [
+      "file-operations",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 75",
+      "Hint 2: Think about File Operations",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_76",
+    "title": "Challenge 76: Classes",
+    "description": "Solve this medium problem involving classes.",
+    "difficulty": "Medium",
+    "xpReward": 126,
+    "starterCode": "# Challenge 76\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 76\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 38,
+    "requiredChallengeId": "c_75",
+    "language": "python",
+    "tags": [
+      "classes",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 76",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_77",
+    "title": "Challenge 77: Classes",
+    "description": "Solve this medium problem involving classes.",
+    "difficulty": "Medium",
+    "xpReward": 127,
+    "starterCode": "# Challenge 77\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 77\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 39,
+    "requiredChallengeId": "c_76",
+    "language": "python",
+    "tags": [
+      "classes",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 77",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_78",
+    "title": "Challenge 78: Classes",
+    "description": "Solve this medium problem involving classes.",
+    "difficulty": "Medium",
+    "xpReward": 128,
+    "starterCode": "# Challenge 78\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 78\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 39,
+    "requiredChallengeId": "c_77",
+    "language": "python",
+    "tags": [
+      "classes",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 78",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_79",
+    "title": "Challenge 79: Classes",
+    "description": "Solve this medium problem involving classes.",
+    "difficulty": "Medium",
+    "xpReward": 129,
+    "starterCode": "# Challenge 79\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 79\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 40,
+    "requiredChallengeId": "c_78",
+    "language": "python",
+    "tags": [
+      "classes",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 79",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_80",
+    "title": "Challenge 80: Classes",
+    "description": "Solve this medium problem involving classes.",
+    "difficulty": "Medium",
+    "xpReward": 130,
+    "starterCode": "# Challenge 80\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 80\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 40,
+    "requiredChallengeId": "c_79",
+    "language": "python",
+    "tags": [
+      "classes",
+      "medium"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 80",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_81",
+    "title": "Challenge 81: Classes",
+    "description": "Solve this hard problem involving classes.",
+    "difficulty": "Hard",
+    "xpReward": 181,
+    "starterCode": "# Challenge 81\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 81\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 41,
+    "requiredChallengeId": "c_80",
+    "language": "python",
+    "tags": [
+      "classes",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 81",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_82",
+    "title": "Challenge 82: Classes",
+    "description": "Solve this hard problem involving classes.",
+    "difficulty": "Hard",
+    "xpReward": 182,
+    "starterCode": "# Challenge 82\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 82\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 41,
+    "requiredChallengeId": "c_81",
+    "language": "python",
+    "tags": [
+      "classes",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 82",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_83",
+    "title": "Challenge 83: Classes",
+    "description": "Solve this hard problem involving classes.",
+    "difficulty": "Hard",
+    "xpReward": 183,
+    "starterCode": "# Challenge 83\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 83\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 42,
+    "requiredChallengeId": "c_82",
+    "language": "python",
+    "tags": [
+      "classes",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 83",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_84",
+    "title": "Challenge 84: Classes",
+    "description": "Solve this hard problem involving classes.",
+    "difficulty": "Hard",
+    "xpReward": 184,
+    "starterCode": "# Challenge 84\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 84\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 42,
+    "requiredChallengeId": "c_83",
+    "language": "python",
+    "tags": [
+      "classes",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 84",
+      "Hint 2: Think about Classes",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_85",
+    "title": "Challenge 85: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 185,
+    "starterCode": "# Challenge 85\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 85\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 43,
+    "requiredChallengeId": "c_84",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 85",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_86",
+    "title": "Challenge 86: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 186,
+    "starterCode": "# Challenge 86\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 86\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 43,
+    "requiredChallengeId": "c_85",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 86",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_87",
+    "title": "Challenge 87: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 187,
+    "starterCode": "# Challenge 87\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 87\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 44,
+    "requiredChallengeId": "c_86",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 87",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_88",
+    "title": "Challenge 88: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 188,
+    "starterCode": "# Challenge 88\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 88\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 44,
+    "requiredChallengeId": "c_87",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 88",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_89",
+    "title": "Challenge 89: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 189,
+    "starterCode": "# Challenge 89\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 89\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 45,
+    "requiredChallengeId": "c_88",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 89",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_90",
+    "title": "Challenge 90: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 190,
+    "starterCode": "# Challenge 90\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 90\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 45,
+    "requiredChallengeId": "c_89",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 90",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_91",
+    "title": "Challenge 91: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 191,
+    "starterCode": "# Challenge 91\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 91\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 46,
+    "requiredChallengeId": "c_90",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 91",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_92",
+    "title": "Challenge 92: Algorithms",
+    "description": "Solve this hard problem involving algorithms.",
+    "difficulty": "Hard",
+    "xpReward": 192,
+    "starterCode": "# Challenge 92\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 92\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 46,
+    "requiredChallengeId": "c_91",
+    "language": "python",
+    "tags": [
+      "algorithms",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 92",
+      "Hint 2: Think about Algorithms",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_93",
+    "title": "Challenge 93: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 193,
+    "starterCode": "# Challenge 93\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 93\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 47,
+    "requiredChallengeId": "c_92",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 93",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_94",
+    "title": "Challenge 94: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 194,
+    "starterCode": "# Challenge 94\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 94\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 47,
+    "requiredChallengeId": "c_93",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 94",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_95",
+    "title": "Challenge 95: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 195,
+    "starterCode": "# Challenge 95\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 95\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 48,
+    "requiredChallengeId": "c_94",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 95",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_96",
+    "title": "Challenge 96: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 196,
+    "starterCode": "# Challenge 96\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 96\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 48,
+    "requiredChallengeId": "c_95",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 96",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_97",
+    "title": "Challenge 97: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 197,
+    "starterCode": "# Challenge 97\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 97\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 49,
+    "requiredChallengeId": "c_96",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 97",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_98",
+    "title": "Challenge 98: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 198,
+    "starterCode": "# Challenge 98\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 98\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 49,
+    "requiredChallengeId": "c_97",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 98",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_99",
+    "title": "Challenge 99: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 199,
+    "starterCode": "# Challenge 99\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 99\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 50,
+    "requiredChallengeId": "c_98",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 99",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  },
+  {
+    "id": "c_100",
+    "title": "Challenge 100: Problem Solving",
+    "description": "Solve this hard problem involving problem solving.",
+    "difficulty": "Hard",
+    "xpReward": 200,
+    "starterCode": "# Challenge 100\n# Write your solution here\n\ndef solution():\n    pass",
+    "tests": [
+      {
+        "input": "test_case_1",
+        "expected": "expected_output_1"
+      },
+      {
+        "input": "test_case_2",
+        "expected": "expected_output_2"
+      }
+    ],
+    "solution": "# Solution for Challenge 100\ndef solution():\n    return \"solved\"",
+    "unlockLevel": 50,
+    "requiredChallengeId": "c_99",
+    "language": "python",
+    "tags": [
+      "problem-solving",
+      "hard"
+    ],
+    "hints": [
+      "Hint 1 for Challenge 100",
+      "Hint 2: Think about Problem Solving",
+      "Hint 3: Solution approach"
+    ]
+  }
+]

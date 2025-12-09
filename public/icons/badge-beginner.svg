@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="40" cy="40" r="35" fill="#4ADE80" opacity="0.2"/>
+  <circle cx="40" cy="40" r="30" fill="#4ADE80"/>
+  <path d="M30 40L36 46L50 32" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="40" y="62" text-anchor="middle" fill="#1F2937" font-size="10" font-weight="bold">BEGINNER</text>
+</svg>
+

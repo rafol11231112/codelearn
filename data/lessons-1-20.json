@@ -1,0 +1,213 @@
+[
+  {
+    "id": "l_1",
+    "title": "Your First Python Program",
+    "section": "sec_1",
+    "order": 1,
+    "content": "Welcome to Python Programming!\n\nPython is a powerful, beginner-friendly programming language used by millions of developers worldwide. Created by Guido van Rossum in 1991, Python prioritizes code readability and simplicity.\n\nWhy Python?\n• Easy syntax that reads like English\n• Used at Google, NASA, Netflix, Instagram\n• Perfect for beginners AND professionals\n• Versatile: web apps, AI, data science, automation\n\nThe print() Function:\nYour first tool in Python is print() - it displays information on the screen.\n\nSyntax: print('your message here')\n\nThe text inside quotes can be anything you want. Quotes tell Python 'this is text, not code'.",
+    "examples": [
+      { "code": "print('Hello, World!')", "explanation": "Displays: Hello, World!" },
+      { "code": "print('I am learning Python')", "explanation": "Displays: I am learning Python" },
+      { "code": "print('2024')", "explanation": "Displays: 2024" }
+    ],
+    "miniExercise": {
+      "task": "Write code that prints 'Python is awesome!' to the console",
+      "starterCode": "# Your first program!\n# Replace ? with the correct code\n\nprint(?)",
+      "solution": "print('Python is awesome!')"
+    },
+    "xpReward": 10,
+    "isLocked": false,
+    "requiredLessonId": null,
+    "estimatedTime": 8
+  },
+  {
+    "id": "l_2",
+    "title": "Variables: Storing Information",
+    "section": "sec_1",
+    "order": 2,
+    "content": "What are Variables?\n\nImagine variables as labeled boxes where you can store information. Each box has a name (the variable name) and contains data (the value).\n\nCreating a Variable:\nvariable_name = value\n\nThe = sign means 'assign' or 'store'. It puts the value on the right into the variable on the left.\n\nNaming Rules:\n✓ Use letters, numbers, and underscores\n✓ Start with a letter or underscore\n✓ Use descriptive names (age, not x)\n✓ Use snake_case for multiple words (user_age)\n✗ Don't start with numbers\n✗ Don't use spaces\n✗ Avoid Python keywords (if, for, while)\n\nWhy Variables?\n• Reuse values throughout your code\n• Make code flexible and maintainable\n• Give meaning to data\n\nExample:\nage = 25\nThis creates a variable named 'age' that stores the number 25.",
+    "examples": [
+      { "code": "name = 'Alice'", "explanation": "Variable 'name' stores the text 'Alice'" },
+      { "code": "score = 100", "explanation": "Variable 'score' stores the number 100" },
+      { "code": "is_active = True", "explanation": "Variable 'is_active' stores True (boolean)" }
+    ],
+    "miniExercise": {
+      "task": "Create a variable called 'favorite_color' and set it to your favorite color",
+      "starterCode": "# Create your variable here\n? = ?",
+      "solution": "favorite_color = 'blue'"
+    },
+    "xpReward": 12,
+    "isLocked": true,
+    "requiredLessonId": "l_1",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_3",
+    "title": "Working with Numbers",
+    "section": "sec_1",
+    "order": 3,
+    "content": "Python Number Types\n\nPython has two main types of numbers:\n\n1. Integers (int)\n• Whole numbers without decimals\n• Can be positive, negative, or zero\n• Examples: 1, -5, 0, 1000, -999\n\n2. Floats (float)\n• Numbers with decimal points\n• Used for precise calculations\n• Examples: 3.14, -0.5, 2.0, 99.99\n\nMath Operations:\n+ Addition: 5 + 3 = 8\n- Subtraction: 10 - 4 = 6\n* Multiplication: 6 * 7 = 42\n/ Division: 15 / 3 = 5.0 (always returns float)\n// Floor Division: 17 // 5 = 3 (rounds down)\n% Modulus: 17 % 5 = 2 (remainder)\n** Exponent: 2 ** 3 = 8 (2 to the power of 3)\n\nOrder of Operations (PEMDAS):\n1. Parentheses ()\n2. Exponents **\n3. Multiplication *, Division /, Modulus %\n4. Addition +, Subtraction -\n\nLeft to right for same priority.\n\nUsing Variables:\nx = 10\ny = 3\nresult = x + y\nprint(result)  # Shows: 13",
+    "examples": [
+      { "code": "price = 19.99\nquantity = 3\ntotal = price * quantity\nprint(total)", "explanation": "Calculates total price: 59.97" },
+      { "code": "a = 10\nb = 3\nremainder = a % b\nprint(remainder)", "explanation": "Finds remainder of 10 ÷ 3 = 1" },
+      { "code": "result = (5 + 3) * 2\nprint(result)", "explanation": "Parentheses first: 8 * 2 = 16" }
+    ],
+    "miniExercise": {
+      "task": "Create variables a=15 and b=4, then calculate a divided by b",
+      "starterCode": "a = ?\nb = ?\nresult = ?\nprint(result)",
+      "solution": "a = 15\nb = 4\nresult = a / b\nprint(result)"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_2",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_4",
+    "title": "Text Data with Strings",
+    "section": "sec_1",
+    "order": 4,
+    "content": "Understanding Strings\n\nStrings are sequences of characters - letters, numbers, symbols, spaces. In Python, strings represent text data.\n\nCreating Strings:\nUse single quotes: 'Hello'\nUse double quotes: \"Hello\"\nBoth work the same!\n\nWhen to use which?\n• Single quotes: most common\n• Double quotes: when text contains apostrophes\n  Example: \"I'm learning Python\"\n\nString Operations:\n• Concatenation (joining): 'Hello' + ' ' + 'World' = 'Hello World'\n• Repetition: 'Ha' * 3 = 'HaHaHa'\n• Length: len('Hello') = 5\n\nEscape Characters:\n\\n - new line\n\\t - tab\n\\' - single quote\n\\\" - double quote\n\nString Variables:\ngreeting = 'Hello'\nname = 'Alice'\nmessage = greeting + ' ' + name\nprint(message)  # Hello Alice\n\nStrings are immutable - once created, they can't be changed. You create new strings instead.\n\nCommon Use Cases:\n• User names and messages\n• File paths and URLs\n• Formatting output\n• Data processing",
+    "examples": [
+      { "code": "first = 'John'\nlast = 'Doe'\nfull = first + ' ' + last\nprint(full)", "explanation": "Combines strings: John Doe" },
+      { "code": "word = 'Python'\nprint(len(word))", "explanation": "Counts characters: 6" },
+      { "code": "line = '=' * 20\nprint(line)", "explanation": "Prints 20 equal signs" }
+    ],
+    "miniExercise": {
+      "task": "Create a variable 'city' with your city name and print it",
+      "starterCode": "city = ?\nprint(city)",
+      "solution": "city = 'New York'\nprint(city)"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_3",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_5",
+    "title": "Getting User Input",
+    "section": "sec_1",
+    "order": 5,
+    "content": "Interactive Programs with input()\n\nThe input() function lets your program interact with users by accepting typed information.\n\nBasic Syntax:\nvariable = input('Prompt message: ')\n\nHow it Works:\n1. Program displays the prompt message\n2. Waits for user to type something\n3. User presses Enter\n4. Input is stored in the variable as a STRING\n\nImportant: input() ALWAYS returns a string!\n\nExample:\nname = input('What is your name? ')\nprint('Hello, ' + name)\n\nConverting Input:\nSince input() returns strings, convert for math:\n\nage_text = input('Enter your age: ')\nage = int(age_text)  # Convert to integer\n\nOr combine in one line:\nage = int(input('Enter your age: '))\n\nInput Types:\n• Text: use as-is\n• Numbers: convert with int() or float()\n• Yes/No: check if input == 'yes'\n\nValidation:\nAlways assume users might type anything! Handle errors in real programs.\n\nUse Cases:\n• Personalized greetings\n• Calculators\n• Games\n• Surveys and forms",
+    "examples": [
+      { "code": "name = input('Name: ')\nprint('Welcome, ' + name)", "explanation": "Gets name and greets user" },
+      { "code": "num = int(input('Enter a number: '))\ndoubled = num * 2\nprint(doubled)", "explanation": "Gets number, doubles it" },
+      { "code": "city = input('City: ')\ncountry = input('Country: ')\nprint(city + ', ' + country)", "explanation": "Combines two inputs" }
+    ],
+    "miniExercise": {
+      "task": "Ask user for their favorite food and print a message",
+      "starterCode": "food = input(?)\nprint('I like ' + ? + ' too!')",
+      "solution": "food = input('Favorite food: ')\nprint('I like ' + food + ' too!')"
+    },
+    "xpReward": 18,
+    "isLocked": true,
+    "requiredLessonId": "l_4",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_6",
+    "title": "Type Conversion",
+    "section": "sec_1",
+    "order": 6,
+    "content": "Converting Between Data Types\n\nPython is smart about types, but sometimes you need to convert from one type to another. This is called type casting or type conversion.\n\nConversion Functions:\n\n1. int() - Convert to Integer\n   int('42') = 42\n   int(3.9) = 3  (removes decimal)\n   int('3.14') = ERROR (can't convert directly)\n\n2. float() - Convert to Float\n   float('3.14') = 3.14\n   float(42) = 42.0\n   float('100') = 100.0\n\n3. str() - Convert to String\n   str(42) = '42'\n   str(3.14) = '3.14'\n   str(True) = 'True'\n\nWhy Convert?\n• Math with input(): input() gives strings\n• Display numbers: print() needs strings for concatenation\n• Data processing: standardize types\n\nCommon Pattern:\nage_str = input('Age: ')\nage_num = int(age_str)\nnext_year = age_num + 1\nprint('Next year you will be ' + str(next_year))\n\nType Checking:\ntype(variable) shows the data type\ntype(42) → <class 'int'>\ntype('42') → <class 'str'>\n\nMixing Types:\n'Age: ' + 25  # ERROR: can't add string and int\n'Age: ' + str(25)  # OK: both strings",
+    "examples": [
+      { "code": "x = '100'\ny = int(x)\nz = y + 50\nprint(z)", "explanation": "Converts string to int: 150" },
+      { "code": "price = 19.99\nprice_str = str(price)\nprint('Price: $' + price_str)", "explanation": "Converts float to string" },
+      { "code": "num = float(input('Enter decimal: '))\nresult = num * 2\nprint(result)", "explanation": "Converts input to float for math" }
+    ],
+    "miniExercise": {
+      "task": "Get a number from user, convert to int, add 10, print result",
+      "starterCode": "num_str = input('Number: ')\nnum = ?\nresult = ?\nprint(result)",
+      "solution": "num_str = input('Number: ')\nnum = int(num_str)\nresult = num + 10\nprint(result)"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_5",
+    "estimatedTime": 15
+  },
+  {
+    "id": "l_7",
+    "title": "String Methods and Operations",
+    "section": "sec_1",
+    "order": 7,
+    "content": "Powerful String Methods\n\nStrings have built-in methods (functions) that make text manipulation easy.\n\nCase Methods:\n• .upper() - Convert to UPPERCASE\n• .lower() - Convert to lowercase\n• .capitalize() - First letter uppercase\n• .title() - Capitalize Each Word\n\nExamples:\ntext = 'hello world'\nprint(text.upper())  # HELLO WORLD\nprint(text.title())  # Hello World\n\nSearching:\n• .find(substring) - Returns index or -1\n• .count(substring) - Count occurrences\n• in operator - Check if exists\n\nExamples:\nsentence = 'Python is amazing'\nprint('Python' in sentence)  # True\nprint(sentence.find('is'))  # 7\n\nCleaning:\n• .strip() - Remove whitespace from ends\n• .replace(old, new) - Replace text\n\nExamples:\ntext = '  hello  '\nprint(text.strip())  # 'hello'\nmsg = 'I like cats'\nprint(msg.replace('cats', 'dogs'))  # I like dogs\n\nSplitting:\n• .split(separator) - Break into list\n\nExample:\nsentence = 'red,blue,green'\ncolors = sentence.split(',')\n# ['red', 'blue', 'green']\n\nChecking:\n• .startswith(prefix)\n• .endswith(suffix)\n• .isdigit() - All digits?\n• .isalpha() - All letters?",
+    "examples": [
+      { "code": "name = 'alice'\nprint(name.upper())", "explanation": "Converts to ALICE" },
+      { "code": "email = '  user@email.com  '\nclean = email.strip()\nprint(clean)", "explanation": "Removes spaces: user@email.com" },
+      { "code": "path = 'image.jpg'\nif path.endswith('.jpg'):\n    print('JPEG image')", "explanation": "Checks file extension" }
+    ],
+    "miniExercise": {
+      "task": "Get user's name, convert to uppercase, and print it",
+      "starterCode": "name = input('Your name: ')\nupper_name = ?\nprint(upper_name)",
+      "solution": "name = input('Your name: ')\nupper_name = name.upper()\nprint(upper_name)"
+    },
+    "xpReward": 22,
+    "isLocked": true,
+    "requiredLessonId": "l_6",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_8",
+    "title": "Comments: Documenting Code",
+    "section": "sec_1",
+    "order": 8,
+    "content": "Writing Clear Code with Comments\n\nComments are notes in your code that Python ignores. They explain what your code does for other programmers (and future you!).\n\nSingle-Line Comments:\nUse # symbol\n\n# This is a comment\nprint('Hello')  # This is also a comment\n\nMulti-Line Comments:\nUse triple quotes (''' or \"\"\")\n\n'''\nThis is a\nmulti-line comment\nfor longer explanations\n'''\n\nWhen to Comment:\n✓ Explain complex logic\n✓ Describe function purpose\n✓ Note important decisions\n✓ Add TODOs and FIXMEs\n✗ Don't state the obvious\n\nGood vs Bad Comments:\n\nBad:\n# increment x by 1\nx = x + 1  # obvious from code\n\nGood:\n# Apply 10% discount for loyalty members\nprice = price * 0.9\n\nDocumentation Comments:\nDescribe what functions do:\n\ndef calculate_total(price, tax):\n    '''\n    Calculates final price including tax\n    \n    Args:\n        price: Base price\n        tax: Tax rate (e.g., 0.08 for 8%)\n    \n    Returns:\n        Total price with tax\n    '''\n    return price * (1 + tax)\n\nBest Practices:\n• Write code that doesn't need comments\n• Use clear variable names\n• Comment the 'why', not the 'what'\n• Keep comments up to date\n• Use comments to plan before coding",
+    "examples": [
+      { "code": "# Calculate area of rectangle\nwidth = 10\nheight = 5\narea = width * height  # length times width", "explanation": "Explains calculation purpose" },
+      { "code": "# TODO: Add input validation\nage = int(input('Age: '))", "explanation": "Notes future improvements" },
+      { "code": "'''\nWeather App v1.0\nAuthor: Your Name\nDate: 2024\n'''\nprint('Welcome')", "explanation": "Documentation header" }
+    ],
+    "miniExercise": {
+      "task": "Add comments explaining each line of code",
+      "starterCode": "name = input('Name: ')\ngreeting = 'Hello, ' + name\nprint(greeting)",
+      "solution": "# Get user's name\nname = input('Name: ')\n# Create greeting message\ngreeting = 'Hello, ' + name\n# Display greeting\nprint(greeting)"
+    },
+    "xpReward": 18,
+    "isLocked": true,
+    "requiredLessonId": "l_7",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_9",
+    "title": "Basic Math Operations",
+    "section": "sec_1",
+    "order": 9,
+    "content": "Mathematical Operations in Python\n\nPython can perform complex calculations easily. Let's master all the math operators!\n\nArithmetic Operators:\n+ Addition\n- Subtraction\n* Multiplication\n/ Division (always returns float)\n// Floor Division (integer result)\n% Modulus (remainder)\n** Exponentiation (power)\n\nDetailed Examples:\n\nDivision vs Floor Division:\n17 / 5 = 3.4 (exact)\n17 // 5 = 3 (rounded down)\n\nModulus (Remainder):\n17 % 5 = 2 (17 = 5*3 + 2)\nUse cases: check if even/odd, cycle through values\n\nExponents:\n2 ** 3 = 8 (2 * 2 * 2)\n10 ** 2 = 100 (10 * 10)\n\nCompound Assignment:\nShorthand for updating variables:\nx += 5  # same as: x = x + 5\nx -= 3  # same as: x = x - 3\nx *= 2  # same as: x = x * 2\nx /= 4  # same as: x = x / 4\n\nMath Module:\nFor advanced math, import math:\n\nimport math\nmath.sqrt(16)  # 4.0\nmath.pi  # 3.14159...\nmath.ceil(4.3)  # 5 (round up)\nmath.floor(4.7)  # 4 (round down)\n\nPractical Uses:\n• Calculate prices and totals\n• Convert units (meters to feet)\n• Physics simulations\n• Game scoring\n• Financial calculations",
+    "examples": [
+      { "code": "# Check if number is even\nnum = 10\nif num % 2 == 0:\n    print('Even')", "explanation": "Even numbers have remainder 0" },
+      { "code": "# Calculate compound interest\nprincipal = 1000\nrate = 0.05\nyears = 3\namount = principal * (1 + rate) ** years\nprint(amount)", "explanation": "Investment grows: $1157.63" },
+      { "code": "# Convert Celsius to Fahrenheit\ncelsius = 25\nfahrenheit = (celsius * 9/5) + 32\nprint(fahrenheit)", "explanation": "25°C = 77°F" }
+    ],
+    "miniExercise": {
+      "task": "Calculate the area of a circle with radius 5 (Area = π * r²)",
+      "starterCode": "radius = 5\npi = 3.14159\narea = ?\nprint(area)",
+      "solution": "radius = 5\npi = 3.14159\narea = pi * radius ** 2\nprint(area)"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_8",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_10",
+    "title": "Python Basics Review",
+    "section": "sec_1",
+    "order": 10,
+    "content": "Section 1 Complete! Let's Review\n\nCongratulations on finishing Python Basics! Let's recap everything you've learned:\n\n1. Print Statements\n   print('message') - Display output\n\n2. Variables\n   name = 'Alice'\n   age = 25\n   Store and reuse data\n\n3. Numbers\n   Integers: 42, -5, 0\n   Floats: 3.14, -0.5\n\n4. Strings\n   Text data in quotes\n   'Hello' or \"Hello\"\n\n5. Input\n   input('Prompt: ') - Get user data\n\n6. Type Conversion\n   int(), float(), str() - Change types\n\n7. String Methods\n   .upper(), .lower(), .strip(), .replace()\n\n8. Comments\n   # Single line\n   ''' Multiple lines '''\n\n9. Math Operations\n   +, -, *, /, //, %, **\n\n10. Best Practices\n    • Use meaningful variable names\n    • Write comments for complex code\n    • Test your code with different inputs\n    • Break problems into small steps\n\nNext Steps:\nYou're ready for Logic & Conditions! You'll learn:\n• Making decisions with if/else\n• Comparing values\n• Combining conditions\n• Building smart programs\n\nKeep practicing! Try combining what you've learned:\n• Build a calculator\n• Create a greeting program\n• Make unit converters\n• Design simple text games",
+    "examples": [
+      { "code": "# Mini calculator\nnum1 = float(input('First number: '))\nnum2 = float(input('Second number: '))\nsum = num1 + num2\nprint('Total: ' + str(sum))", "explanation": "Combines input, conversion, math" },
+      { "code": "# Personalized greeting\nname = input('Name: ')\nage = int(input('Age: '))\nprint('Hello, ' + name + '!')\nprint('You are ' + str(age) + ' years old.')", "explanation": "Uses multiple concepts together" },
+      { "code": "# Temperature converter\nc = float(input('Celsius: '))\nf = (c * 9/5) + 32\nprint(str(c) + '°C = ' + str(f) + '°F')", "explanation": "Practical application" }
+    ],
+    "miniExercise": {
+      "task": "Create a program that asks for name and age, then prints a personalized message",
+      "starterCode": "# Your complete program here",
+      "solution": "name = input('Your name: ')\nage = int(input('Your age: '))\nprint('Hello, ' + name + '!')\nprint('You are ' + str(age) + ' years old.')"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_9",
+    "estimatedTime": 20
+  }
+]
+

@@ -1,0 +1,103 @@
+[
+  {
+    "id": "sec_1",
+    "title": "Python Basics",
+    "description": "Learn the fundamentals of Python programming",
+    "order": 1,
+    "icon": "🐍",
+    "color": "#3776AB",
+    "unlockXPRequired": 0,
+    "lessonIds": ["l_1", "l_2", "l_3", "l_4", "l_5", "l_6", "l_7", "l_8", "l_9", "l_10"]
+  },
+  {
+    "id": "sec_2",
+    "title": "Python Logic & Conditions",
+    "description": "Master conditional statements and logical operations",
+    "order": 2,
+    "icon": "🧠",
+    "color": "#FF6B6B",
+    "unlockXPRequired": 150,
+    "lessonIds": ["l_11", "l_12", "l_13", "l_14", "l_15", "l_16", "l_17", "l_18", "l_19", "l_20"]
+  },
+  {
+    "id": "sec_3",
+    "title": "Python Loops",
+    "description": "Learn to repeat code efficiently with loops",
+    "order": 3,
+    "icon": "🔄",
+    "color": "#4ECDC4",
+    "unlockXPRequired": 350,
+    "lessonIds": ["l_21", "l_22", "l_23", "l_24", "l_25", "l_26", "l_27", "l_28", "l_29", "l_30"]
+  },
+  {
+    "id": "sec_4",
+    "title": "Data Structures",
+    "description": "Work with lists, dictionaries, sets, and tuples",
+    "order": 4,
+    "icon": "📊",
+    "color": "#95E1D3",
+    "unlockXPRequired": 600,
+    "lessonIds": ["l_31", "l_32", "l_33", "l_34", "l_35", "l_36", "l_37", "l_38", "l_39", "l_40"]
+  },
+  {
+    "id": "sec_5",
+    "title": "Functions & Modules",
+    "description": "Create reusable code with functions and modules",
+    "order": 5,
+    "icon": "⚙️",
+    "color": "#F38181",
+    "unlockXPRequired": 900,
+    "lessonIds": ["l_41", "l_42", "l_43", "l_44", "l_45", "l_46", "l_47", "l_48", "l_49", "l_50"]
+  },
+  {
+    "id": "sec_6",
+    "title": "OOP Theory",
+    "description": "Object-Oriented Programming concepts and classes",
+    "order": 6,
+    "icon": "🏗️",
+    "color": "#A8E6CF",
+    "unlockXPRequired": 1250,
+    "lessonIds": ["l_51", "l_52", "l_53", "l_54", "l_55", "l_56", "l_57", "l_58", "l_59", "l_60"]
+  },
+  {
+    "id": "sec_7",
+    "title": "File Handling + Errors",
+    "description": "Read/write files and handle exceptions",
+    "order": 7,
+    "icon": "📁",
+    "color": "#FFD3B6",
+    "unlockXPRequired": 1650,
+    "lessonIds": ["l_61", "l_62", "l_63", "l_64", "l_65", "l_66", "l_67", "l_68", "l_69", "l_70"]
+  },
+  {
+    "id": "sec_8",
+    "title": "Mini Projects",
+    "description": "Build real-world Python applications",
+    "order": 8,
+    "icon": "🚀",
+    "color": "#FFAAA5",
+    "unlockXPRequired": 2100,
+    "lessonIds": ["l_71", "l_72", "l_73", "l_74", "l_75", "l_76", "l_77", "l_78", "l_79", "l_80"]
+  },
+  {
+    "id": "sec_9",
+    "title": "Algorithms Basics",
+    "description": "Learn fundamental algorithms and problem-solving",
+    "order": 9,
+    "icon": "🧮",
+    "color": "#FF8B94",
+    "unlockXPRequired": 2600,
+    "lessonIds": ["l_81", "l_82", "l_83", "l_84", "l_85", "l_86", "l_87", "l_88", "l_89", "l_90"]
+  },
+  {
+    "id": "sec_10",
+    "title": "Web Dev Intro",
+    "description": "Introduction to HTML, CSS, and JavaScript",
+    "order": 10,
+    "icon": "🌐",
+    "color": "#FFC857",
+    "unlockXPRequired": 3200,
+    "lessonIds": ["l_91", "l_92", "l_93", "l_94", "l_95", "l_96", "l_97", "l_98", "l_99", "l_100"]
+  }
+]
+

@@ -1,0 +1,18 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M40 5L43 25L50 15L45 30L60 25L48 35L65 40L48 45L60 55L45 50L50 65L43 55L40 75L37 55L30 65L35 50L20 55L32 45L15 40L32 35L20 25L35 30L30 15L37 25L40 5Z" fill="#F59E0B">
+    <animate attributeName="opacity" values="1;0.5;1" dur="1.5s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="15" cy="15" r="3" fill="#F59E0B">
+    <animate attributeName="r" values="3;5;3" dur="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="65" cy="15" r="3" fill="#3B82F6">
+    <animate attributeName="r" values="3;5;3" dur="1.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="15" cy="65" r="3" fill="#4ADE80">
+    <animate attributeName="r" values="3;5;3" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="65" cy="65" r="3" fill="#F59E0B">
+    <animate attributeName="r" values="3;5;3" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+</svg>
+

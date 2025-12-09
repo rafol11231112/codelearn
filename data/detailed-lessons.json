@@ -1,0 +1,64 @@
+[
+  {
+    "id": "l_1",
+    "title": "Introduction to Python",
+    "section": "sec_1",
+    "order": 1,
+    "content": "Welcome to Python Programming!\n\nPython is one of the world's most popular programming languages. Created by Guido van Rossum in 1991, Python emphasizes readability and simplicity.\n\nWhy Learn Python?\n• Easy to learn and read\n• Versatile - used in web development, data science, AI, automation\n• Huge community and libraries\n• High demand in job market\n\nYour First Program:\nThe traditional first program in any language is 'Hello, World!' - it simply displays text on screen.\n\nIn Python, we use the print() function to display output.",
+    "examples": [
+      "print('Hello, World!')",
+      "print('Welcome to Python!')",
+      "print(2024)"
+    ],
+    "miniExercise": {
+      "task": "Write a program that prints your name",
+      "starterCode": "# Print your name\nprint(?)",
+      "solution": "print('Your Name')"
+    },
+    "xpReward": 10,
+    "isLocked": false,
+    "requiredLessonId": null
+  },
+  {
+    "id": "l_2",
+    "title": "Variables - Storing Data",
+    "section": "sec_1",
+    "order": 2,
+    "content": "Variables in Python\n\nVariables are like labeled boxes that store data. You can put information in them and retrieve it later.\n\nKey Points:\n• Variables have a name and a value\n• Python automatically figures out the data type\n• Variable names should be descriptive\n• Use lowercase with underscores (snake_case)\n\nCreating Variables:\nvariable_name = value\n\nRules for Variable Names:\n✓ Can contain letters, numbers, underscores\n✓ Must start with letter or underscore\n✓ Case-sensitive (age and Age are different)\n✗ Cannot use Python keywords (if, for, while, etc.)\n✗ No spaces or special characters\n\nWhy Use Variables?\n• Store data for later use\n• Make code flexible and reusable\n• Give meaning to values",
+    "examples": [
+      "age = 25",
+      "name = 'Alice'",
+      "is_student = True",
+      "height = 5.9"
+    ],
+    "miniExercise": {
+      "task": "Create a variable called 'score' and set it to 100",
+      "starterCode": "# Create variable score\n? = ?",
+      "solution": "score = 100"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_1"
+  },
+  {
+    "id": "l_3",
+    "title": "Numbers in Python",
+    "section": "sec_1",
+    "order": 3,
+    "content": "Working with Numbers\n\nPython has two main number types:\n\n1. Integers (int)\n• Whole numbers (positive, negative, or zero)\n• Examples: 5, -3, 0, 1000\n• No decimal point\n\n2. Floating-Point (float)\n• Numbers with decimal points\n• Examples: 3.14, -0.5, 2.0\n• Used for precise calculations\n\nBasic Math Operations:\n+ Addition: 5 + 3 = 8\n- Subtraction: 10 - 4 = 6\n* Multiplication: 6 * 7 = 42\n/ Division: 15 / 3 = 5.0\n// Floor Division: 17 // 5 = 3\n% Modulus (remainder): 17 % 5 = 2\n** Exponent: 2 ** 3 = 8\n\nOrder of Operations (PEMDAS):\nParentheses → Exponents → Multiplication/Division → Addition/Subtraction\n\nExample: 2 + 3 * 4 = 14 (not 20!)",
+    "examples": [
+      "x = 10\ny = 3\nsum = x + y\nprint(sum)  # 13",
+      "price = 19.99\nquantity = 3\ntotal = price * quantity\nprint(total)  # 59.97",
+      "result = (5 + 3) * 2\nprint(result)  # 16"
+    ],
+    "miniExercise": {
+      "task": "Create two variables a=5 and b=3, then calculate their product",
+      "starterCode": "a = ?\nb = ?\nproduct = ?\nprint(product)",
+      "solution": "a = 5\nb = 3\nproduct = a * b\nprint(product)"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_2"
+  }
+]
+

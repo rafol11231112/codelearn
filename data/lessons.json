@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "l_1",
+    "title": "Print Statements",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 1,
+    "content": "Learn about Output in Python Basics.\n\nThis lesson covers print statements and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Print Statements",
+      "Practical use case for Output"
+    ],
+    "miniExercise": {
+      "task": "Practice Print Statements",
+      "starterCode": "print(?)",
+      "solution": "# Solution for Print Statements"
+    },
+    "xpReward": 10,
+    "isLocked": false,
+    "requiredLessonId": null,
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_2",
+    "title": "Variables",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 2,
+    "content": "Learn about Data Storage in Python Basics.\n\nThis lesson covers variables and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Variables",
+      "Practical use case for Data Storage"
+    ],
+    "miniExercise": {
+      "task": "Practice Variables",
+      "starterCode": "x = ?",
+      "solution": "# Solution for Variables"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_1",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_3",
+    "title": "Numbers",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 3,
+    "content": "Learn about Integer Math in Python Basics.\n\nThis lesson covers numbers and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Numbers",
+      "Practical use case for Integer Math"
+    ],
+    "miniExercise": {
+      "task": "Practice Numbers",
+      "starterCode": "a = ?\nb = ?",
+      "solution": "# Solution for Numbers"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_2",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_4",
+    "title": "Strings",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 4,
+    "content": "Learn about Text Data in Python Basics.\n\nThis lesson covers strings and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Strings",
+      "Practical use case for Text Data"
+    ],
+    "miniExercise": {
+      "task": "Practice Strings",
+      "starterCode": "name = \"?\"",
+      "solution": "# Solution for Strings"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_3",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_5",
+    "title": "Input",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 5,
+    "content": "Learn about User Input in Python Basics.\n\nThis lesson covers input and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Input",
+      "Practical use case for User Input"
+    ],
+    "miniExercise": {
+      "task": "Practice Input",
+      "starterCode": "user_input = input(?)",
+      "solution": "# Solution for Input"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_4",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_6",
+    "title": "Type Conversion",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 6,
+    "content": "Learn about Casting in Python Basics.\n\nThis lesson covers type conversion and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Type Conversion",
+      "Practical use case for Casting"
+    ],
+    "miniExercise": {
+      "task": "Practice Type Conversion",
+      "starterCode": "num = int(?)",
+      "solution": "# Solution for Type Conversion"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_5",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_7",
+    "title": "String Operations",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 7,
+    "content": "Learn about Concatenation in Python Basics.\n\nThis lesson covers string operations and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of String Operations",
+      "Practical use case for Concatenation"
+    ],
+    "miniExercise": {
+      "task": "Practice String Operations",
+      "starterCode": "full = ? + ?",
+      "solution": "# Solution for String Operations"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_6",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_8",
+    "title": "Comments",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 8,
+    "content": "Learn about Documentation in Python Basics.\n\nThis lesson covers comments and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Comments",
+      "Practical use case for Documentation"
+    ],
+    "miniExercise": {
+      "task": "Practice Comments",
+      "starterCode": "# ?",
+      "solution": "# Solution for Comments"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_7",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_9",
+    "title": "Basic Math",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 9,
+    "content": "Learn about Arithmetic in Python Basics.\n\nThis lesson covers basic math and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Basic Math",
+      "Practical use case for Arithmetic"
+    ],
+    "miniExercise": {
+      "task": "Practice Basic Math",
+      "starterCode": "result = ? + ?",
+      "solution": "# Solution for Basic Math"
+    },
+    "xpReward": 10,
+    "isLocked": true,
+    "requiredLessonId": "l_8",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_10",
+    "title": "Variables Practice",
+    "section": "sec_1",
+    "sectionTitle": "Python Basics",
+    "order": 10,
+    "content": "Learn about Assignment in Python Basics.\n\nThis lesson covers variables practice and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Variables Practice",
+      "Practical use case for Assignment"
+    ],
+    "miniExercise": {
+      "task": "Practice Variables Practice",
+      "starterCode": "var1 = ?\nvar2 = ?",
+      "solution": "# Solution for Variables Practice"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_9",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_11",
+    "title": "If Statements",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 11,
+    "content": "Learn about Conditionals in Python Logic & Conditions.\n\nThis lesson covers if statements and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of If Statements",
+      "Practical use case for Conditionals"
+    ],
+    "miniExercise": {
+      "task": "Practice If Statements",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for If Statements"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_10",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_12",
+    "title": "Else Clause",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 12,
+    "content": "Learn about Alternative Path in Python Logic & Conditions.\n\nThis lesson covers else clause and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Else Clause",
+      "Practical use case for Alternative Path"
+    ],
+    "miniExercise": {
+      "task": "Practice Else Clause",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Else Clause"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_11",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_13",
+    "title": "Elif",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 13,
+    "content": "Learn about Multiple Conditions in Python Logic & Conditions.\n\nThis lesson covers elif and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Elif",
+      "Practical use case for Multiple Conditions"
+    ],
+    "miniExercise": {
+      "task": "Practice Elif",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Elif"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_12",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_14",
+    "title": "Comparison Operators",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 14,
+    "content": "Learn about ==, !=, <, > in Python Logic & Conditions.\n\nThis lesson covers comparison operators and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Comparison Operators",
+      "Practical use case for ==, !=, <, >"
+    ],
+    "miniExercise": {
+      "task": "Practice Comparison Operators",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Comparison Operators"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_13",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_15",
+    "title": "Logical AND",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 15,
+    "content": "Learn about Both True in Python Logic & Conditions.\n\nThis lesson covers logical and and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Logical AND",
+      "Practical use case for Both True"
+    ],
+    "miniExercise": {
+      "task": "Practice Logical AND",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Logical AND"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_14",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_16",
+    "title": "Logical OR",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 16,
+    "content": "Learn about Either True in Python Logic & Conditions.\n\nThis lesson covers logical or and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Logical OR",
+      "Practical use case for Either True"
+    ],
+    "miniExercise": {
+      "task": "Practice Logical OR",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Logical OR"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_15",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_17",
+    "title": "Logical NOT",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 17,
+    "content": "Learn about Negation in Python Logic & Conditions.\n\nThis lesson covers logical not and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Logical NOT",
+      "Practical use case for Negation"
+    ],
+    "miniExercise": {
+      "task": "Practice Logical NOT",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Logical NOT"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_16",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_18",
+    "title": "Nested If",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 18,
+    "content": "Learn about Complex Logic in Python Logic & Conditions.\n\nThis lesson covers nested if and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Nested If",
+      "Practical use case for Complex Logic"
+    ],
+    "miniExercise": {
+      "task": "Practice Nested If",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Nested If"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_17",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_19",
+    "title": "Ternary Operator",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 19,
+    "content": "Learn about Inline If in Python Logic & Conditions.\n\nThis lesson covers ternary operator and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Ternary Operator",
+      "Practical use case for Inline If"
+    ],
+    "miniExercise": {
+      "task": "Practice Ternary Operator",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Ternary Operator"
+    },
+    "xpReward": 15,
+    "isLocked": true,
+    "requiredLessonId": "l_18",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_20",
+    "title": "Boolean Logic",
+    "section": "sec_2",
+    "sectionTitle": "Python Logic & Conditions",
+    "order": 20,
+    "content": "Learn about True/False in Python Logic & Conditions.\n\nThis lesson covers boolean logic and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Boolean Logic",
+      "Practical use case for True/False"
+    ],
+    "miniExercise": {
+      "task": "Practice Boolean Logic",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Boolean Logic"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_19",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_21",
+    "title": "While Loop",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 21,
+    "content": "Learn about Repeat While True in Python Loops.\n\nThis lesson covers while loop and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of While Loop",
+      "Practical use case for Repeat While True"
+    ],
+    "miniExercise": {
+      "task": "Practice While Loop",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for While Loop"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_20",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_22",
+    "title": "For Loop",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 22,
+    "content": "Learn about Iterate Sequence in Python Loops.\n\nThis lesson covers for loop and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of For Loop",
+      "Practical use case for Iterate Sequence"
+    ],
+    "miniExercise": {
+      "task": "Practice For Loop",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for For Loop"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_21",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_23",
+    "title": "Range Function",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 23,
+    "content": "Learn about Number Sequences in Python Loops.\n\nThis lesson covers range function and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Range Function",
+      "Practical use case for Number Sequences"
+    ],
+    "miniExercise": {
+      "task": "Practice Range Function",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Range Function"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_22",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_24",
+    "title": "Break Statement",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 24,
+    "content": "Learn about Exit Loop in Python Loops.\n\nThis lesson covers break statement and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Break Statement",
+      "Practical use case for Exit Loop"
+    ],
+    "miniExercise": {
+      "task": "Practice Break Statement",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Break Statement"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_23",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_25",
+    "title": "Continue Statement",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 25,
+    "content": "Learn about Skip Iteration in Python Loops.\n\nThis lesson covers continue statement and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Continue Statement",
+      "Practical use case for Skip Iteration"
+    ],
+    "miniExercise": {
+      "task": "Practice Continue Statement",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Continue Statement"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_24",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_26",
+    "title": "Nested Loops",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 26,
+    "content": "Learn about Loop in Loop in Python Loops.\n\nThis lesson covers nested loops and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Nested Loops",
+      "Practical use case for Loop in Loop"
+    ],
+    "miniExercise": {
+      "task": "Practice Nested Loops",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Nested Loops"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_25",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_27",
+    "title": "Loop with Else",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 27,
+    "content": "Learn about Completion Action in Python Loops.\n\nThis lesson covers loop with else and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Loop with Else",
+      "Practical use case for Completion Action"
+    ],
+    "miniExercise": {
+      "task": "Practice Loop with Else",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Loop with Else"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_26",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_28",
+    "title": "List Iteration",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 28,
+    "content": "Learn about For Each Item in Python Loops.\n\nThis lesson covers list iteration and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of List Iteration",
+      "Practical use case for For Each Item"
+    ],
+    "miniExercise": {
+      "task": "Practice List Iteration",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for List Iteration"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_27",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_29",
+    "title": "Enumerate",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 29,
+    "content": "Learn about Index + Value in Python Loops.\n\nThis lesson covers enumerate and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Enumerate",
+      "Practical use case for Index + Value"
+    ],
+    "miniExercise": {
+      "task": "Practice Enumerate",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Enumerate"
+    },
+    "xpReward": 20,
+    "isLocked": true,
+    "requiredLessonId": "l_28",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_30",
+    "title": "Loop Patterns",
+    "section": "sec_3",
+    "sectionTitle": "Python Loops",
+    "order": 30,
+    "content": "Learn about Common Uses in Python Loops.\n\nThis lesson covers loop patterns and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Loop Patterns",
+      "Practical use case for Common Uses"
+    ],
+    "miniExercise": {
+      "task": "Practice Loop Patterns",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Loop Patterns"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_29",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_31",
+    "title": "Lists",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 31,
+    "content": "Learn about Ordered Collection in Data Structures.\n\nThis lesson covers lists and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Lists",
+      "Practical use case for Ordered Collection"
+    ],
+    "miniExercise": {
+      "task": "Practice Lists",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Lists"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_30",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_32",
+    "title": "List Methods",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 32,
+    "content": "Learn about append, remove in Data Structures.\n\nThis lesson covers list methods and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of List Methods",
+      "Practical use case for append, remove"
+    ],
+    "miniExercise": {
+      "task": "Practice List Methods",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for List Methods"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_31",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_33",
+    "title": "List Slicing",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 33,
+    "content": "Learn about Sub-lists in Data Structures.\n\nThis lesson covers list slicing and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of List Slicing",
+      "Practical use case for Sub-lists"
+    ],
+    "miniExercise": {
+      "task": "Practice List Slicing",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for List Slicing"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_32",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_34",
+    "title": "Tuples",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 34,
+    "content": "Learn about Immutable Lists in Data Structures.\n\nThis lesson covers tuples and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Tuples",
+      "Practical use case for Immutable Lists"
+    ],
+    "miniExercise": {
+      "task": "Practice Tuples",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Tuples"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_33",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_35",
+    "title": "Dictionaries",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 35,
+    "content": "Learn about Key-Value Pairs in Data Structures.\n\nThis lesson covers dictionaries and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Dictionaries",
+      "Practical use case for Key-Value Pairs"
+    ],
+    "miniExercise": {
+      "task": "Practice Dictionaries",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Dictionaries"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_34",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_36",
+    "title": "Dictionary Methods",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 36,
+    "content": "Learn about keys, values, items in Data Structures.\n\nThis lesson covers dictionary methods and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Dictionary Methods",
+      "Practical use case for keys, values, items"
+    ],
+    "miniExercise": {
+      "task": "Practice Dictionary Methods",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Dictionary Methods"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_35",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_37",
+    "title": "Sets",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 37,
+    "content": "Learn about Unique Elements in Data Structures.\n\nThis lesson covers sets and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Sets",
+      "Practical use case for Unique Elements"
+    ],
+    "miniExercise": {
+      "task": "Practice Sets",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Sets"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_36",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_38",
+    "title": "Set Operations",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 38,
+    "content": "Learn about Union, Intersection in Data Structures.\n\nThis lesson covers set operations and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Set Operations",
+      "Practical use case for Union, Intersection"
+    ],
+    "miniExercise": {
+      "task": "Practice Set Operations",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Set Operations"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_37",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_39",
+    "title": "List Comprehension",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 39,
+    "content": "Learn about Compact Lists in Data Structures.\n\nThis lesson covers list comprehension and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of List Comprehension",
+      "Practical use case for Compact Lists"
+    ],
+    "miniExercise": {
+      "task": "Practice List Comprehension",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for List Comprehension"
+    },
+    "xpReward": 25,
+    "isLocked": true,
+    "requiredLessonId": "l_38",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_40",
+    "title": "Nested Structures",
+    "section": "sec_4",
+    "sectionTitle": "Data Structures",
+    "order": 40,
+    "content": "Learn about Complex Data in Data Structures.\n\nThis lesson covers nested structures and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Nested Structures",
+      "Practical use case for Complex Data"
+    ],
+    "miniExercise": {
+      "task": "Practice Nested Structures",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Nested Structures"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_39",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_41",
+    "title": "Defining Functions",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 41,
+    "content": "Learn about def keyword in Functions & Modules.\n\nThis lesson covers defining functions and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Defining Functions",
+      "Practical use case for def keyword"
+    ],
+    "miniExercise": {
+      "task": "Practice Defining Functions",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Defining Functions"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_40",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_42",
+    "title": "Function Parameters",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 42,
+    "content": "Learn about Input Values in Functions & Modules.\n\nThis lesson covers function parameters and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Function Parameters",
+      "Practical use case for Input Values"
+    ],
+    "miniExercise": {
+      "task": "Practice Function Parameters",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Function Parameters"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_41",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_43",
+    "title": "Return Statement",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 43,
+    "content": "Learn about Output Values in Functions & Modules.\n\nThis lesson covers return statement and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Return Statement",
+      "Practical use case for Output Values"
+    ],
+    "miniExercise": {
+      "task": "Practice Return Statement",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Return Statement"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_42",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_44",
+    "title": "Default Parameters",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 44,
+    "content": "Learn about Optional Args in Functions & Modules.\n\nThis lesson covers default parameters and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Default Parameters",
+      "Practical use case for Optional Args"
+    ],
+    "miniExercise": {
+      "task": "Practice Default Parameters",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Default Parameters"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_43",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_45",
+    "title": "Keyword Arguments",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 45,
+    "content": "Learn about Named Args in Functions & Modules.\n\nThis lesson covers keyword arguments and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Keyword Arguments",
+      "Practical use case for Named Args"
+    ],
+    "miniExercise": {
+      "task": "Practice Keyword Arguments",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Keyword Arguments"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_44",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_46",
+    "title": "*args",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 46,
+    "content": "Learn about Variable Args in Functions & Modules.\n\nThis lesson covers *args and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of *args",
+      "Practical use case for Variable Args"
+    ],
+    "miniExercise": {
+      "task": "Practice *args",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for *args"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_45",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_47",
+    "title": "**kwargs",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 47,
+    "content": "Learn about Keyword Dict in Functions & Modules.\n\nThis lesson covers **kwargs and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of **kwargs",
+      "Practical use case for Keyword Dict"
+    ],
+    "miniExercise": {
+      "task": "Practice **kwargs",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for **kwargs"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_46",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_48",
+    "title": "Lambda Functions",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 48,
+    "content": "Learn about Anonymous Functions in Functions & Modules.\n\nThis lesson covers lambda functions and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Lambda Functions",
+      "Practical use case for Anonymous Functions"
+    ],
+    "miniExercise": {
+      "task": "Practice Lambda Functions",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Lambda Functions"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_47",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_49",
+    "title": "Importing Modules",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 49,
+    "content": "Learn about import, from in Functions & Modules.\n\nThis lesson covers importing modules and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Importing Modules",
+      "Practical use case for import, from"
+    ],
+    "miniExercise": {
+      "task": "Practice Importing Modules",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Importing Modules"
+    },
+    "xpReward": 30,
+    "isLocked": true,
+    "requiredLessonId": "l_48",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_50",
+    "title": "Creating Modules",
+    "section": "sec_5",
+    "sectionTitle": "Functions & Modules",
+    "order": 50,
+    "content": "Learn about Own .py Files in Functions & Modules.\n\nThis lesson covers creating modules and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Creating Modules",
+      "Practical use case for Own .py Files"
+    ],
+    "miniExercise": {
+      "task": "Practice Creating Modules",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Creating Modules"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_49",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_51",
+    "title": "Classes",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 51,
+    "content": "Learn about Objects Blueprint in OOP Theory.\n\nThis lesson covers classes and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Classes",
+      "Practical use case for Objects Blueprint"
+    ],
+    "miniExercise": {
+      "task": "Practice Classes",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Classes"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_50",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_52",
+    "title": "__init__",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 52,
+    "content": "Learn about Constructor in OOP Theory.\n\nThis lesson covers __init__ and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of __init__",
+      "Practical use case for Constructor"
+    ],
+    "miniExercise": {
+      "task": "Practice __init__",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for __init__"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_51",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_53",
+    "title": "self Parameter",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 53,
+    "content": "Learn about Instance Reference in OOP Theory.\n\nThis lesson covers self parameter and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of self Parameter",
+      "Practical use case for Instance Reference"
+    ],
+    "miniExercise": {
+      "task": "Practice self Parameter",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for self Parameter"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_52",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_54",
+    "title": "Instance Attributes",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 54,
+    "content": "Learn about Object Data in OOP Theory.\n\nThis lesson covers instance attributes and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Instance Attributes",
+      "Practical use case for Object Data"
+    ],
+    "miniExercise": {
+      "task": "Practice Instance Attributes",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Instance Attributes"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_53",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_55",
+    "title": "Methods",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 55,
+    "content": "Learn about Object Functions in OOP Theory.\n\nThis lesson covers methods and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Methods",
+      "Practical use case for Object Functions"
+    ],
+    "miniExercise": {
+      "task": "Practice Methods",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Methods"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_54",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_56",
+    "title": "Inheritance",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 56,
+    "content": "Learn about Parent Class in OOP Theory.\n\nThis lesson covers inheritance and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Inheritance",
+      "Practical use case for Parent Class"
+    ],
+    "miniExercise": {
+      "task": "Practice Inheritance",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Inheritance"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_55",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_57",
+    "title": "super()",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 57,
+    "content": "Learn about Parent Methods in OOP Theory.\n\nThis lesson covers super() and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of super()",
+      "Practical use case for Parent Methods"
+    ],
+    "miniExercise": {
+      "task": "Practice super()",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for super()"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_56",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_58",
+    "title": "Encapsulation",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 58,
+    "content": "Learn about Private Data in OOP Theory.\n\nThis lesson covers encapsulation and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Encapsulation",
+      "Practical use case for Private Data"
+    ],
+    "miniExercise": {
+      "task": "Practice Encapsulation",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Encapsulation"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_57",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_59",
+    "title": "Polymorphism",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 59,
+    "content": "Learn about Method Override in OOP Theory.\n\nThis lesson covers polymorphism and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Polymorphism",
+      "Practical use case for Method Override"
+    ],
+    "miniExercise": {
+      "task": "Practice Polymorphism",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Polymorphism"
+    },
+    "xpReward": 35,
+    "isLocked": true,
+    "requiredLessonId": "l_58",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_60",
+    "title": "Class Variables",
+    "section": "sec_6",
+    "sectionTitle": "OOP Theory",
+    "order": 60,
+    "content": "Learn about Shared Data in OOP Theory.\n\nThis lesson covers class variables and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Class Variables",
+      "Practical use case for Shared Data"
+    ],
+    "miniExercise": {
+      "task": "Practice Class Variables",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Class Variables"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_59",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_61",
+    "title": "Opening Files",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 61,
+    "content": "Learn about open() function in File Handling + Errors.\n\nThis lesson covers opening files and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Opening Files",
+      "Practical use case for open() function"
+    ],
+    "miniExercise": {
+      "task": "Practice Opening Files",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Opening Files"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_60",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_62",
+    "title": "Reading Files",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 62,
+    "content": "Learn about read(), readline() in File Handling + Errors.\n\nThis lesson covers reading files and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Reading Files",
+      "Practical use case for read(), readline()"
+    ],
+    "miniExercise": {
+      "task": "Practice Reading Files",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Reading Files"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_61",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_63",
+    "title": "Writing Files",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 63,
+    "content": "Learn about write() method in File Handling + Errors.\n\nThis lesson covers writing files and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Writing Files",
+      "Practical use case for write() method"
+    ],
+    "miniExercise": {
+      "task": "Practice Writing Files",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Writing Files"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_62",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_64",
+    "title": "With Statement",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 64,
+    "content": "Learn about Auto-close in File Handling + Errors.\n\nThis lesson covers with statement and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of With Statement",
+      "Practical use case for Auto-close"
+    ],
+    "miniExercise": {
+      "task": "Practice With Statement",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for With Statement"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_63",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_65",
+    "title": "File Modes",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 65,
+    "content": "Learn about r, w, a, rb in File Handling + Errors.\n\nThis lesson covers file modes and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of File Modes",
+      "Practical use case for r, w, a, rb"
+    ],
+    "miniExercise": {
+      "task": "Practice File Modes",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for File Modes"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_64",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_66",
+    "title": "Try-Except",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 66,
+    "content": "Learn about Error Handling in File Handling + Errors.\n\nThis lesson covers try-except and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Try-Except",
+      "Practical use case for Error Handling"
+    ],
+    "miniExercise": {
+      "task": "Practice Try-Except",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Try-Except"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_65",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_67",
+    "title": "Exception Types",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 67,
+    "content": "Learn about Specific Errors in File Handling + Errors.\n\nThis lesson covers exception types and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Exception Types",
+      "Practical use case for Specific Errors"
+    ],
+    "miniExercise": {
+      "task": "Practice Exception Types",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Exception Types"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_66",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_68",
+    "title": "Finally Block",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 68,
+    "content": "Learn about Always Execute in File Handling + Errors.\n\nThis lesson covers finally block and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Finally Block",
+      "Practical use case for Always Execute"
+    ],
+    "miniExercise": {
+      "task": "Practice Finally Block",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Finally Block"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_67",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_69",
+    "title": "Raising Exceptions",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 69,
+    "content": "Learn about raise keyword in File Handling + Errors.\n\nThis lesson covers raising exceptions and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Raising Exceptions",
+      "Practical use case for raise keyword"
+    ],
+    "miniExercise": {
+      "task": "Practice Raising Exceptions",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Raising Exceptions"
+    },
+    "xpReward": 40,
+    "isLocked": true,
+    "requiredLessonId": "l_68",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_70",
+    "title": "Custom Exceptions",
+    "section": "sec_7",
+    "sectionTitle": "File Handling + Errors",
+    "order": 70,
+    "content": "Learn about Own Error Classes in File Handling + Errors.\n\nThis lesson covers custom exceptions and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Custom Exceptions",
+      "Practical use case for Own Error Classes"
+    ],
+    "miniExercise": {
+      "task": "Practice Custom Exceptions",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Custom Exceptions"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_69",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_71",
+    "title": "Calculator",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 71,
+    "content": "Learn about Math Program in Mini Projects.\n\nThis lesson covers calculator and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Calculator",
+      "Practical use case for Math Program"
+    ],
+    "miniExercise": {
+      "task": "Practice Calculator",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Calculator"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_70",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_72",
+    "title": "Todo List",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 72,
+    "content": "Learn about Task Manager in Mini Projects.\n\nThis lesson covers todo list and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Todo List",
+      "Practical use case for Task Manager"
+    ],
+    "miniExercise": {
+      "task": "Practice Todo List",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Todo List"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_71",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_73",
+    "title": "Number Guessing",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 73,
+    "content": "Learn about Game Logic in Mini Projects.\n\nThis lesson covers number guessing and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Number Guessing",
+      "Practical use case for Game Logic"
+    ],
+    "miniExercise": {
+      "task": "Practice Number Guessing",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Number Guessing"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_72",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_74",
+    "title": "Password Generator",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 74,
+    "content": "Learn about Random Strings in Mini Projects.\n\nThis lesson covers password generator and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Password Generator",
+      "Practical use case for Random Strings"
+    ],
+    "miniExercise": {
+      "task": "Practice Password Generator",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Password Generator"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_73",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_75",
+    "title": "Quiz App",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 75,
+    "content": "Learn about Q&A System in Mini Projects.\n\nThis lesson covers quiz app and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Quiz App",
+      "Practical use case for Q&A System"
+    ],
+    "miniExercise": {
+      "task": "Practice Quiz App",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Quiz App"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_74",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_76",
+    "title": "Contact Book",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 76,
+    "content": "Learn about Data Management in Mini Projects.\n\nThis lesson covers contact book and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Contact Book",
+      "Practical use case for Data Management"
+    ],
+    "miniExercise": {
+      "task": "Practice Contact Book",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Contact Book"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_75",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_77",
+    "title": "Weather App",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 77,
+    "content": "Learn about API Integration in Mini Projects.\n\nThis lesson covers weather app and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Weather App",
+      "Practical use case for API Integration"
+    ],
+    "miniExercise": {
+      "task": "Practice Weather App",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Weather App"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_76",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_78",
+    "title": "File Organizer",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 78,
+    "content": "Learn about Automation in Mini Projects.\n\nThis lesson covers file organizer and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of File Organizer",
+      "Practical use case for Automation"
+    ],
+    "miniExercise": {
+      "task": "Practice File Organizer",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for File Organizer"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_77",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_79",
+    "title": "Budget Tracker",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 79,
+    "content": "Learn about Finance App in Mini Projects.\n\nThis lesson covers budget tracker and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Budget Tracker",
+      "Practical use case for Finance App"
+    ],
+    "miniExercise": {
+      "task": "Practice Budget Tracker",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Budget Tracker"
+    },
+    "xpReward": 45,
+    "isLocked": true,
+    "requiredLessonId": "l_78",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_80",
+    "title": "Flashcard App",
+    "section": "sec_8",
+    "sectionTitle": "Mini Projects",
+    "order": 80,
+    "content": "Learn about Learning Tool in Mini Projects.\n\nThis lesson covers flashcard app and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Flashcard App",
+      "Practical use case for Learning Tool"
+    ],
+    "miniExercise": {
+      "task": "Practice Flashcard App",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Flashcard App"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_79",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_81",
+    "title": "Linear Search",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 81,
+    "content": "Learn about Find in List in Algorithms Basics.\n\nThis lesson covers linear search and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Linear Search",
+      "Practical use case for Find in List"
+    ],
+    "miniExercise": {
+      "task": "Practice Linear Search",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Linear Search"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_80",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_82",
+    "title": "Binary Search",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 82,
+    "content": "Learn about Sorted Search in Algorithms Basics.\n\nThis lesson covers binary search and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Binary Search",
+      "Practical use case for Sorted Search"
+    ],
+    "miniExercise": {
+      "task": "Practice Binary Search",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Binary Search"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_81",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_83",
+    "title": "Bubble Sort",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 83,
+    "content": "Learn about Simple Sorting in Algorithms Basics.\n\nThis lesson covers bubble sort and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Bubble Sort",
+      "Practical use case for Simple Sorting"
+    ],
+    "miniExercise": {
+      "task": "Practice Bubble Sort",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Bubble Sort"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_82",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_84",
+    "title": "Selection Sort",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 84,
+    "content": "Learn about Min Selection in Algorithms Basics.\n\nThis lesson covers selection sort and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Selection Sort",
+      "Practical use case for Min Selection"
+    ],
+    "miniExercise": {
+      "task": "Practice Selection Sort",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Selection Sort"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_83",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_85",
+    "title": "Insertion Sort",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 85,
+    "content": "Learn about Build Sorted in Algorithms Basics.\n\nThis lesson covers insertion sort and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Insertion Sort",
+      "Practical use case for Build Sorted"
+    ],
+    "miniExercise": {
+      "task": "Practice Insertion Sort",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Insertion Sort"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_84",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_86",
+    "title": "Recursion",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 86,
+    "content": "Learn about Self-calling in Algorithms Basics.\n\nThis lesson covers recursion and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Recursion",
+      "Practical use case for Self-calling"
+    ],
+    "miniExercise": {
+      "task": "Practice Recursion",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Recursion"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_85",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_87",
+    "title": "Factorial",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 87,
+    "content": "Learn about n! calculation in Algorithms Basics.\n\nThis lesson covers factorial and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Factorial",
+      "Practical use case for n! calculation"
+    ],
+    "miniExercise": {
+      "task": "Practice Factorial",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Factorial"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_86",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_88",
+    "title": "Fibonacci",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 88,
+    "content": "Learn about Sequence Gen in Algorithms Basics.\n\nThis lesson covers fibonacci and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Fibonacci",
+      "Practical use case for Sequence Gen"
+    ],
+    "miniExercise": {
+      "task": "Practice Fibonacci",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Fibonacci"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_87",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_89",
+    "title": "Two Pointers",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 89,
+    "content": "Learn about Array Technique in Algorithms Basics.\n\nThis lesson covers two pointers and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Two Pointers",
+      "Practical use case for Array Technique"
+    ],
+    "miniExercise": {
+      "task": "Practice Two Pointers",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Two Pointers"
+    },
+    "xpReward": 50,
+    "isLocked": true,
+    "requiredLessonId": "l_88",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_90",
+    "title": "Sliding Window",
+    "section": "sec_9",
+    "sectionTitle": "Algorithms Basics",
+    "order": 90,
+    "content": "Learn about Subarray Pattern in Algorithms Basics.\n\nThis lesson covers sliding window and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Sliding Window",
+      "Practical use case for Subarray Pattern"
+    ],
+    "miniExercise": {
+      "task": "Practice Sliding Window",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Sliding Window"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_89",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_91",
+    "title": "HTML Basics",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 91,
+    "content": "Learn about Structure in Web Dev Intro.\n\nThis lesson covers html basics and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of HTML Basics",
+      "Practical use case for Structure"
+    ],
+    "miniExercise": {
+      "task": "Practice HTML Basics",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for HTML Basics"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_90",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_92",
+    "title": "HTML Tags",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 92,
+    "content": "Learn about Elements in Web Dev Intro.\n\nThis lesson covers html tags and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of HTML Tags",
+      "Practical use case for Elements"
+    ],
+    "miniExercise": {
+      "task": "Practice HTML Tags",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for HTML Tags"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_91",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_93",
+    "title": "CSS Basics",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 93,
+    "content": "Learn about Styling in Web Dev Intro.\n\nThis lesson covers css basics and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of CSS Basics",
+      "Practical use case for Styling"
+    ],
+    "miniExercise": {
+      "task": "Practice CSS Basics",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for CSS Basics"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_92",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_94",
+    "title": "CSS Selectors",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 94,
+    "content": "Learn about Target Elements in Web Dev Intro.\n\nThis lesson covers css selectors and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of CSS Selectors",
+      "Practical use case for Target Elements"
+    ],
+    "miniExercise": {
+      "task": "Practice CSS Selectors",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for CSS Selectors"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_93",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_95",
+    "title": "CSS Box Model",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 95,
+    "content": "Learn about Layout in Web Dev Intro.\n\nThis lesson covers css box model and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of CSS Box Model",
+      "Practical use case for Layout"
+    ],
+    "miniExercise": {
+      "task": "Practice CSS Box Model",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for CSS Box Model"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_94",
+    "estimatedTime": 18
+  },
+  {
+    "id": "l_96",
+    "title": "JS Variables",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 96,
+    "content": "Learn about let, const in Web Dev Intro.\n\nThis lesson covers js variables and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of JS Variables",
+      "Practical use case for let, const"
+    ],
+    "miniExercise": {
+      "task": "Practice JS Variables",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for JS Variables"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_95",
+    "estimatedTime": 10
+  },
+  {
+    "id": "l_97",
+    "title": "JS Functions",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 97,
+    "content": "Learn about Reusable Code in Web Dev Intro.\n\nThis lesson covers js functions and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of JS Functions",
+      "Practical use case for Reusable Code"
+    ],
+    "miniExercise": {
+      "task": "Practice JS Functions",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for JS Functions"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_96",
+    "estimatedTime": 12
+  },
+  {
+    "id": "l_98",
+    "title": "DOM Manipulation",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 98,
+    "content": "Learn about Change HTML in Web Dev Intro.\n\nThis lesson covers dom manipulation and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of DOM Manipulation",
+      "Practical use case for Change HTML"
+    ],
+    "miniExercise": {
+      "task": "Practice DOM Manipulation",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for DOM Manipulation"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_97",
+    "estimatedTime": 14
+  },
+  {
+    "id": "l_99",
+    "title": "Event Listeners",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 99,
+    "content": "Learn about User Actions in Web Dev Intro.\n\nThis lesson covers event listeners and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Event Listeners",
+      "Practical use case for User Actions"
+    ],
+    "miniExercise": {
+      "task": "Practice Event Listeners",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Event Listeners"
+    },
+    "xpReward": 55,
+    "isLocked": true,
+    "requiredLessonId": "l_98",
+    "estimatedTime": 16
+  },
+  {
+    "id": "l_100",
+    "title": "Build Webpage",
+    "section": "sec_10",
+    "sectionTitle": "Web Dev Intro",
+    "order": 100,
+    "content": "Learn about Complete Page in Web Dev Intro.\n\nThis lesson covers build webpage and how to use it effectively in Python programming.",
+    "examples": [
+      "Example of Build Webpage",
+      "Practical use case for Complete Page"
+    ],
+    "miniExercise": {
+      "task": "Practice Build Webpage",
+      "starterCode": "# Your code here",
+      "solution": "# Solution for Build Webpage"
+    },
+    "xpReward": 60,
+    "isLocked": true,
+    "requiredLessonId": "l_99",
+    "estimatedTime": 18
+  }
+]

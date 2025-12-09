@@ -1,0 +1,302 @@
+[
+  {
+    "level": 1,
+    "xpRequired": 0,
+    "title": "Code Newbie",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 2,
+    "xpRequired": 150,
+    "title": "Script Learner",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 3,
+    "xpRequired": 300,
+    "title": "Syntax Explorer",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 4,
+    "xpRequired": 450,
+    "title": "Logic Builder",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 5,
+    "xpRequired": 600,
+    "title": "Loop Master",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 6,
+    "xpRequired": 750,
+    "title": "Function Creator",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 7,
+    "xpRequired": 900,
+    "title": "Data Handler",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 8,
+    "xpRequired": 1050,
+    "title": "Algorithm Solver",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 9,
+    "xpRequired": 1200,
+    "title": "Code Craftsman",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 10,
+    "xpRequired": 1350,
+    "title": "Python Apprentice",
+    "reward": "Special Badge"
+  },
+  {
+    "level": 11,
+    "xpRequired": 1500,
+    "title": "Syntax Warrior",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 12,
+    "xpRequired": 1650,
+    "title": "Logic Expert",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 13,
+    "xpRequired": 1800,
+    "title": "Problem Solver",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 14,
+    "xpRequired": 1950,
+    "title": "Code Architect",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 15,
+    "xpRequired": 2100,
+    "title": "Python Adept",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 16,
+    "xpRequired": 2250,
+    "title": "Senior Developer",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 17,
+    "xpRequired": 2400,
+    "title": "Code Wizard",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 18,
+    "xpRequired": 2550,
+    "title": "Python Master",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 19,
+    "xpRequired": 2700,
+    "title": "Algorithm Expert",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 20,
+    "xpRequired": 2850,
+    "title": "Code Ninja",
+    "reward": "Special Badge"
+  },
+  {
+    "level": 21,
+    "xpRequired": 3000,
+    "title": "Programming Guru",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 22,
+    "xpRequired": 3150,
+    "title": "Code Sage",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 23,
+    "xpRequired": 3300,
+    "title": "Python Pro",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 24,
+    "xpRequired": 3450,
+    "title": "Elite Coder",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 25,
+    "xpRequired": 3600,
+    "title": "Code Legend",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 26,
+    "xpRequired": 3750,
+    "title": "Master Programmer",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 27,
+    "xpRequired": 3900,
+    "title": "Python Virtuoso",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 28,
+    "xpRequired": 4050,
+    "title": "Code Titan",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 29,
+    "xpRequired": 4200,
+    "title": "Supreme Coder",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 30,
+    "xpRequired": 4350,
+    "title": "Code Demigod",
+    "reward": "Special Badge"
+  },
+  {
+    "level": 31,
+    "xpRequired": 4500,
+    "title": "Python Deity",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 32,
+    "xpRequired": 4650,
+    "title": "Code Immortal",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 33,
+    "xpRequired": 4800,
+    "title": "Grandmaster",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 34,
+    "xpRequired": 4950,
+    "title": "Code Oracle",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 35,
+    "xpRequired": 5100,
+    "title": "Python Overlord",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 36,
+    "xpRequired": 5250,
+    "title": "Code Emperor",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 37,
+    "xpRequired": 5400,
+    "title": "Ultimate Coder",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 38,
+    "xpRequired": 5550,
+    "title": "Code Champion",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 39,
+    "xpRequired": 5700,
+    "title": "Python Hero",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 40,
+    "xpRequired": 5850,
+    "title": "Code Savant",
+    "reward": "Special Badge"
+  },
+  {
+    "level": 41,
+    "xpRequired": 6000,
+    "title": "Elite Master",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 42,
+    "xpRequired": 6150,
+    "title": "Code Prodigy",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 43,
+    "xpRequired": 6300,
+    "title": "Python Genius",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 44,
+    "xpRequired": 6450,
+    "title": "Code Maestro",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 45,
+    "xpRequired": 6600,
+    "title": "Supreme Master",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 46,
+    "xpRequired": 6750,
+    "title": "Code Sovereign",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 47,
+    "xpRequired": 6900,
+    "title": "Python Luminary",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 48,
+    "xpRequired": 7050,
+    "title": "Code Transcendent",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 49,
+    "xpRequired": 7200,
+    "title": "Legendary Coder",
+    "reward": "Progress Badge"
+  },
+  {
+    "level": 50,
+    "xpRequired": 7350,
+    "title": "Code Omniscient",
+    "reward": "Special Badge"
+  }
+]

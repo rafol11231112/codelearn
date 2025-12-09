@@ -1,0 +1,7 @@
+<svg width="64" height="80" viewBox="0 0 64 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M32 10C32 10 20 25 20 40C20 52 26 60 32 60C38 60 44 52 44 40C44 25 32 10 32 10Z" fill="#F59E0B"/>
+  <path d="M32 20C32 20 26 30 26 38C26 44 28 48 32 48C36 48 38 44 38 38C38 30 32 20 32 20Z" fill="#FCD34D"/>
+  <circle cx="32" cy="38" r="4" fill="white"/>
+  <text x="32" y="75" text-anchor="middle" fill="#F59E0B" font-size="14" font-weight="bold">STREAK</text>
+</svg>
+
